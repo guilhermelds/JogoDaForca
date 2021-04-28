@@ -12,8 +12,10 @@ public class main {
 		JogoDaForca jogo1 = new JogoDaForca("Jogo Da Forca", jogador1, jogador3);
 		jogo1.AchaLetra();
 		
+		System.out.println("Novo jogo");
+		
 		JogoDaForca jogo2 = new JogoDaForca("Jogo Da Forca", jogador2, jogador4);
-		jogo1.AchaLetra();
+		jogo2.AchaLetra();
 		
 		
 		

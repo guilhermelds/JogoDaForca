@@ -12,6 +12,9 @@ public class main {
 		JogoDaForca jogo1 = new JogoDaForca("Jogo Da Forca", jogador1, jogador3);
 		jogo1.AchaLetra();
 		
+		JogoDaForca jogo2 = new JogoDaForca("Jogo Da Forca", jogador2, jogador4);
+		jogo1.AchaLetra();
+		
 		
 		
 		

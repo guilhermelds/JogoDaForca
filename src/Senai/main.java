@@ -9,9 +9,8 @@ public class main {
 		Jogadores jogador3 = new Jogadores("Carlos");
 		Jogadores jogador4 = new Jogadores("Marcelo");
 		
-		JogoDaForca jogo1 = new JogoDaForca(null, jogador1, jogador3, null);
-		jogo1.AddPalavra();
-		jogo1.njogada();
+		JogoDaForca jogo1 = new JogoDaForca("Jogo Da Forca", jogador1, jogador3);
+		jogo1.AchaLetra();
 		
 		
 		

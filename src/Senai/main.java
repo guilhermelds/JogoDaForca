@@ -1,5 +1,11 @@
 package Senai;
 
+
+/** 
+ * Classe responsável pela adição de jogadores e inicio de partida
+ * 
+ *
+ */
 public class main {
 
 	public static void main(String[] args) {
